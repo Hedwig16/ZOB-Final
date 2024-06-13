@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ZOB-Final/static/css/main.1e5bb75d.css",
+    "main.js": "/ZOB-Final/static/js/main.d4df7c8f.js",
+    "static/js/453.b444b346.chunk.js": "/ZOB-Final/static/js/453.b444b346.chunk.js",
+    "index.html": "/ZOB-Final/index.html",
+    "main.1e5bb75d.css.map": "/ZOB-Final/static/css/main.1e5bb75d.css.map",
+    "main.d4df7c8f.js.map": "/ZOB-Final/static/js/main.d4df7c8f.js.map",
+    "453.b444b346.chunk.js.map": "/ZOB-Final/static/js/453.b444b346.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e5bb75d.css",
+    "static/js/main.d4df7c8f.js"
+  ]
+}
